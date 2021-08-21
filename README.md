@@ -1,5 +1,4 @@
-# 20-Bit_Sigma_Delta_ADC_4.5_Digit_Panelmeter
-
+# 20-Bit Sigma Delta ADC 4.5 Digit Panelmeter
 
 - Processor: PIC, MAX Series...
 - DISPLAYs:  SEVEN SEGMENT DİSPLAYS
